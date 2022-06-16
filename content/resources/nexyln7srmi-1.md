@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-cms-501-envisioning-the-graduate-of-the-future-spring-2020/bb9f383fc91fdfd24c602447f482bc26_nEXylN7sRmI.pdf
+file: /courses/res-cms-501-envisioning-the-graduate-of-the-future-spring-2020/bb9f383fc91fdfd24c602447f482bc26_nEXylN7sRmI.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

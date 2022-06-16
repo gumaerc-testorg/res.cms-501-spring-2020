@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-cms-501-envisioning-the-graduate-of-the-future-spring-2020/ac2777c1b69173118110c7d9c243c3ff_res-cms-501s20-th.jpg
+file: /courses/res-cms-501-envisioning-the-graduate-of-the-future-spring-2020/ac2777c1b69173118110c7d9c243c3ff_res-cms-501s20-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: "In this course,\_learners reflect on the purpose and goals of secondary\
