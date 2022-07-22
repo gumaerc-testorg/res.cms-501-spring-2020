@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-cms-501-envisioning-the-graduate-of-the-future-spring-2020/167096fd281d8ec140da8e21aa772946_res-cms-501s20.jpg
+file: /courses/res-cms-501-envisioning-the-graduate-of-the-future-spring-2020/167096fd281d8ec140da8e21aa772946_res-cms-501s20.jpg
 file_type: image/jpeg
 image_metadata:
   caption: "In this course,\_learners reflect on the purpose and goals of secondary\
@@ -10,6 +10,9 @@ image_metadata:
     \ Used under CC0.)"
   credit: ''
   image-alt: 'Students throwing graduation caps in the air. '
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: OCWImage
 resourcetype: Image
 title: res-cms-501s20.jpg
 uid: 167096fd-281d-8ec1-40da-8e21aa772946
