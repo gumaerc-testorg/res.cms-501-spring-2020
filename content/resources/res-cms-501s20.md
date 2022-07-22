@@ -11,6 +11,7 @@ image_metadata:
   credit: ''
   image-alt: 'Students throwing graduation caps in the air. '
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: res-cms-501s20.jpg

@@ -4,6 +4,7 @@ description: ''
 file: /courses/res-cms-501-envisioning-the-graduate-of-the-future-spring-2020/8bb10dd7abba5806ba20941977d7563d_nEXylN7sRmI.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
