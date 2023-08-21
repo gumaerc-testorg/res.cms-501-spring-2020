@@ -37,7 +37,10 @@
     "content": "ac2777c1-b691-7311-8110-c7d9c243c3ff",
     "website": "res-cms-501-envisioning-the-graduate-of-the-future-spring-2020"
   },
-  "learning_resource_types": [],
-  "site_uid": "b3f34fac-2d42-4615-813f-380f77a2521c",
+  "learning_resource_types": [
+    "Instructor Insights"
+  ],
+  "site_uid": "9ebc0fd2-d7e9-4ee6-886b-6496cc4c1278",
+  "short_id": "res.cms-501-spring-2020",
   "title": "Course Metadata"
 }
