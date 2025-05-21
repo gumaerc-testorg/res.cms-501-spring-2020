@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/res-cms-501-envisioning-the-graduate-of-the-future-spring-2020/167096fd281d8ec140da8e21aa772946_res-cms-501s20.jpg
+file: /courses/res-cms-501-envisioning-the-graduate-of-the-future-spring-2020/167096fd281d8ec140da8e21aa772946_res-cms-501s20.jpg
 file_size: 27645
 file_type: image/jpeg
 image_metadata:
