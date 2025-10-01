@@ -7,7 +7,7 @@ file_type: image/jpeg
 image_metadata:
   caption: "In this course,\_learners reflect on the purpose and goals of secondary\
     \ school, as well as desirable characteristics for graduates. (Image courtesy\
-    \ of [hippopx](https://www.hippopx.com/en/accomplishment-ceremony-education-graduation-group-hats-people-310085).\
+    \ of {{% resource_link \"c9f3cc71-9e9b-4f5a-8f3c-58639e903ad8\" \"hippopx\" %}}.\
     \ Used under CC0.)"
   credit: ''
   image-alt: 'Students throwing graduation caps in the air. '
